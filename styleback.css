@@ -1,0 +1,162 @@
+body {
+	font-family: "vedana";
+	background-color:  #e6e6e6;
+	font-weight: bold;
+	color: black;
+	width: 100%;
+	margin: 0px;
+	text-align: justify;
+}
+hgroup{
+	margin-top: 50px;
+	text-align: center;
+}
+header {
+	font-style: "vedana";
+	background-color: #666666;
+	color: black;
+	overflow: hidden;
+}
+header h1{
+	font-size: 50px;
+	text-align: center;
+	margin-right: 60px;
+	margin-bottom: 0px;
+}
+header h2{
+	font-size: 1.5em;
+	text-align: center;
+	margin-top: 10px;
+	margin-right: 60px;
+}
+header img{
+	border-style: solid;
+	border-width: 5px;
+	background-color: #808080;
+	float: left;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	padding: 10px;
+	
+}
+div.nav ul{
+	font-weight: bold;
+	border-style: none;
+	border-width: 1px;
+	list-style-type: none;
+	background-color:#ffad33;
+	margin: 0px;
+	overflow: hidden;
+	padding: 0px;
+}
+div.nav li{
+	float: left;
+}
+div.nav li a{
+	text-decoration: none;
+	padding: 15px 70px;
+	display: block;
+	color:black;
+}
+div.nav li a:hover {
+	background-color: white;
+	color:black;
+}
+section{
+	color: black;
+	border-bottom-style: none;
+	border-width: 0px;
+	padding: 10px;
+}
+footer{
+	font-weight:bold;
+	font-family: "consolas";
+	background-color:#ffad33;
+	font-size: 15px;
+	color:black; 
+	text-align:center;
+	padding: 0.1px;
+}
+
+.mac{
+	margin-left: 60px;
+}
+.Question a{
+	font-size: 25px;
+	color: #0073e6;
+	padding:10px 0px; 
+}
+.Question a1{
+	font-family: Consolas;
+	font-size: 15px;
+	padding: 10px 0px;
+}
+article{
+	margin:-13px;
+}
+.absolute-text{
+	position:absolute; 
+	top:300px;
+	left: 50px;
+	font-size:10px; 
+	font-family:"consolas"; 
+	width:100%; 
+	}
+.absolute-text a{
+	font-size: 18px;
+	padding: 10px 0px;
+	color: white;
+
+}
+.absolute-text a.pro{
+	font-size: 25px;
+	color: black;
+	background-color: white;
+	padding: 10px 40px;
+}
+.absolute-text a.xpro{
+	font-size: 25px;
+	font-family: "vedana";
+	color: black;
+	background-color: #ffad33;
+	padding: 10px 40px;
+	left: 500px;
+	text-decoration: none;
+}
+.absolute-text a.pro1{
+	font-size: 25px;
+	color: black;
+	background-color:#ffad33;
+	padding: 10px 40px;
+}
+.absolute-text a.apro1{
+	font-size: 15px;
+	color: black;
+	background-color:none;
+	padding: 0px 0px;
+}
+.absolute-text a.pro2{
+	font-size: 20px;
+	color: white;
+	background-color:black;
+	padding: 10px 40px;
+}
+.absolute-text a.apro1{
+	font-size: 15px;
+	color: black;
+	background-color:none;
+	padding: 0px 0px;
+}
+.absolute-text a.apro2{
+	font-size: 18px;
+	color:black;
+	background-color:none;
+	padding: 5px 0px;
+}
+.absolute-text a.apro3{
+	font-size: 18px;
+	color:black;
+	background-color:none;
+	padding: 5px 0px;
+}

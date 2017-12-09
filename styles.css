@@ -1,0 +1,209 @@
+body {
+	font-family: "vedana";
+	background-color:#f2f2f2;;
+	color: black;
+	width: 100%;
+	margin: 0px;
+	text-align: justify;
+}
+hgroup{
+	margin-top: 50px;
+	text-align: center;
+}
+header {
+	font-style: "vedana";
+	background-color: #666666;
+	color: black;
+	overflow: hidden;
+}
+header h1{
+	font-size: 50px;
+	text-align: center;
+	margin-right: 60px;
+	margin-bottom: 0px;
+}
+header h2{
+	font-size: 1.5em;
+	text-align: center;
+	margin-top: 10px;
+	margin-right: 60px;
+}
+header img{
+	border-style: solid;
+	border-width: 5px;
+	background-color: #808080;
+	float: left;
+	margin-top: 12px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	padding: 10px;
+	
+}
+div.nav ul{
+	font-weight: bold;
+	border-style: none;
+	border-width: 1px;
+	list-style-type: none;
+	background-color:#ffad33;
+	margin: 0px;
+	overflow: hidden;
+	padding: 0px;
+}
+div.nav li{
+	float: left;
+}
+/*div.nav li ax{
+	text-decoration: none;
+	margin-left: 50px;
+	padding: 15px 60px;
+	display: block;
+	color:black;
+}*/
+div.nav li a{
+	text-decoration: none;
+	padding: 15px 70px;
+	display: block;
+	color:black;
+}
+/*div.nav li ax:hover {
+	background-color: white;
+	color:black;
+}*/
+div.nav li a:hover {
+	background-color: white;
+	color:black;
+}
+section{
+	color: black;
+	border-bottom-style: none;
+	border-width: 0px;
+	padding: 10px;
+}
+hr {
+	border-style: none;
+}
+/*img {
+	float: right;
+	border-color: black;
+	border-style: none;
+	border-width: 1px;
+	padding: 10px;
+	margin: 0px;*/
+}
+article img{
+	border-style: solid;
+	border-width: 0px;
+	margin-bottom:-4px; 
+	
+}
+article {
+	margin: -10px;
+	background-color:#ffad33; 
+
+}
+.absolute-text{
+	position:absolute; 
+	top:350px;
+	font-size:10px; 
+	font-family:"vedana"; 
+	width:100%; 
+	text-align:center;
+}
+
+.absolute-text a1{
+	font-size:50px; 
+	color:black;
+	background:none;
+	padding:0px 30px; 
+	
+}
+.absolute-text a {
+	font-size:40px; 
+	color:black;
+	text-decoration: none;
+	padding:0px 30px; 
+	background:#ffad33;
+	
+}
+.reabsolute-text {
+	position: absolute;
+	top:600px;
+	left: 50px;
+	font-size: 20px;
+	padding: 10px 20px;
+	width: 100%;
+	text-align: left;
+}
+.reabsolute-text a{
+	color: black;
+	font-weight: bold;
+	background: white;
+	padding: 10px 40px;
+}
+.reabsolute-text a1{
+	color: black;
+	font-weight: bold;
+	background:#ffad33;
+	padding: 10px 40px;
+}
+.deabsolute-text {
+	position: absolute;
+	top: 600px;
+	right: 50px;
+	font-size: 20px;
+	padding: 10px 20px;
+	width: 100%;
+	text-align: right;
+}
+.deabsolute-text a{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: white;
+	padding: 10px 40px;
+}
+.deabsolute-text a1{
+	color: black;
+	font-weight: bold;
+	background:#ffad33;
+	padding: 10px 40px;
+}
+.peabsolute-text{
+	position:absolute; 
+	top:1200px;
+	left: 75px;
+	font-size:10px; 
+	font-family:"vedana"; 
+	width:100%; 
+	text-align:left;
+}
+.peabsolute-text a{
+	color: black;
+	font-weight: bold;
+	background:none;
+	padding: 20px 40px;
+	font-size: 40px; 
+}
+footer{
+	font-weight:bold;
+	font-family: "consolas";
+	background-color:#ffad33;
+	font-size: 18px;
+	color:black; 
+	text-align:center;
+	padding: 0.1px;
+}
+.extra {
+	position: absolute;
+	top:1660px;
+	left:50px; 
+}
+.dextra {
+	position: absolute;
+	top:1660px;
+	right:50px; 
+}
+
+.mac{
+	margin-left: 60px;
+}
