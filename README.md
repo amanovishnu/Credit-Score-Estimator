@@ -4,8 +4,6 @@ Lenders, such as banks and credit card companies, use credit scores to evaluate 
 
 ![Home Page](https://github.com/amanovishnu/Credit-Score-Estimator/blob/master/Snapshots/Screenshot%20(1).png)
 
-![Login Page](https://github.com/amanovishnu/Credit-Score-Estimator/blob/master/Snapshots/Screenshot%20(2).png)
-
 ![Create Account Page](https://github.com/amanovishnu/Credit-Score-Estimator/blob/master/Snapshots/Screenshot%20(4).png)
 
 ![Info Page 1](https://github.com/amanovishnu/Credit-Score-Estimator/blob/master/Snapshots/Screenshot%20(5).png)
